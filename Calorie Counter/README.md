@@ -2,6 +2,8 @@
 
 A simple calorie tracking app to log meals, track daily totals, and visualize trends. Focused on minimal JS stack (React + Node) but adaptable to other frameworks.
 
+# Link : https://calorie-counter19.netlify.app
+
 ## Features
 - Add, edit, delete food entries (name, calories, date, meal type)
 - Daily and weekly calorie summaries
